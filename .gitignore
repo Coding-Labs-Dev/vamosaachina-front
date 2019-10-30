@@ -4,7 +4,8 @@
 
 ### dotenv ###
 .env
-
+.env.development
+.env.production
 ### macOS ###
 # General
 .DS_Store
